@@ -52,10 +52,6 @@ IBC Available Relay between Sei and another IBC (Ref: https://3pgv.notion.site/S
       harpoon-4: channel-12
 
 ==================================================== TASK ====================================================
-1. Be in the set of the first 50 addresses to carry in/out an eligible IBC transfer of a CW20 token to/from Seinami testnet
-   - Install binary file or node of Sei and another Cosmos chain
-   - Create wallet and get faucet in discord of corresponding project
-   - Do IBC transfer following abode guide. If you dont install node, add the option --node=http://RPC_IP:RPC_PORT (check project discord for available validator node)
 
 2. Be in the set of the first 50 addresses to carry out an eligible IBC transfer of a ERC20 token to/from Seinami testnet (with another cosmos chain)
    - In Metamask, login Ropsten network and get some test Ropsten ETH, then go to testnet Uniswap to swap Ropsten ETH to WETH.
